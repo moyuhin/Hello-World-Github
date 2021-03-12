@@ -1,5 +1,5 @@
 name: Greeting from <Your_Name>
-on: push
+on: [push, pull_request]
 
 jobs:
   my-job:
